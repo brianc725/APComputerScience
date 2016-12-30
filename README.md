@@ -1,6 +1,6 @@
 # APComputerScience
 
-Projects from AP Computer Science under Edhesive online MOOC course.
+Projects from AP Computer Science under <a href="https://edhesive.com/courses/apcs_java"> Edhesive </a> online MOOC course.
 
 # Term 1
 <ul>
