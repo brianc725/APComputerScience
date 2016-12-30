@@ -21,6 +21,18 @@ Projects from AP Computer Science under Edhesive online MOOC course.
 
 # Term 2
 <ul>
+<li> Assignment 1 - Implements Time class to hold hour and minute to represent time. Contains methods toString(), convert(), and increment() </li>
 
+<li> Assignment 2 - Implements Light Class to represent a light bulb. Continas methods flip and setColor. Implements Strand Class to represent a strand of lights. Contains methods flip, turnOn, turnoff, and setColor </li>
+
+<li> Assignment 3 - Five classes to represent the elements of a school: Person, Student, Teacher, HighSchoolStudent, and School </li>
+
+<li> Assignment 4 - Revisits the Time class to add compareTo and difference </li>
+
+<li> Assignment 5 - Implements Deck Class with a shuffle method. Program tested to deal cards to two hands and determine winner by calculating point values </li>
+
+<li> Assignment 6 - User inputs name and list is returned in alphabetical order via insertion sort </li>
+
+<li> Assignment 7 - Implenets Bitmap Class to represent a black and white image using a 2D array. Contains methods flipHorizontal, flipVertical, reverse, and toString </li>
 </ul>
 
